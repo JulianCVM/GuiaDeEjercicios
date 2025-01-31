@@ -12,3 +12,7 @@ Los ejercicios de cardio son actividades que aumentan tu flexibilidad.
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza estiramientos y ejercicios.
 3. Termina con un enfriamiento y estiramientos.
+
+## Consejos
+- Mantén una hidratación adecuada.
+- Escoge un ritmo que puedas mantener.
